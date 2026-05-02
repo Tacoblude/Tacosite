@@ -1,0 +1,66 @@
+body {
+  background-color: #28282B;
+}
+a:link {
+  color: gray;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: whitesmoke;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+p {
+    position: fixed;
+    top: 0%;
+    left: 45%;
+    font-size: 200%;
+    font-family: fantasy;
+    color: #fff1ff;}
+p1 {
+    position: fixed;
+    top: 20%;
+    left: 10%;
+    font-size: 180%;
+    font-family: fantasy;
+    color: #fff1ff;}
+p2 {
+    position: fixed;
+    top: 25%;
+    left: 10%;
+    font-size: 150%;
+    font-family: fantasy;
+    color: #fff1ff;}
+p3 {
+    position: fixed;
+    top: 30%;
+    left: 10%;
+    font-size: 60%;
+    font-family: fantasy;
+    color: #fff1ff;}
+p4 {    position: fixed;
+    top: 40%;
+    left: 70%;
+    font-size: 210%;
+    font-family: fantasy;
+    color: #fff1ff;}
+p5 {    position: fixed;
+    top: 45%;
+    left: 72.5%;
+    font-size: 30%;
+    font-family: fantasy;
+    color: #fff1ff;}
