@@ -64,3 +64,15 @@ p5 {    position: fixed;
     font-size: 30%;
     font-family: fantasy;
     color: #fff1ff;}
+p7{    position: fixed;
+    top: 5%;
+    left: 45%;
+    font-size: 400%;
+    font-family: fantasy;
+    color: #fff1ff;}
+p8{    position: fixed;
+    top: 15%;
+    left: 47%;
+    font-size: 10%;
+    font-family: fantasy;
+    color: #fff1ff;}
